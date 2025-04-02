@@ -1,0 +1,23 @@
+button {
+  color: rgb(rgb(59, 58, 126), green, blue);
+  padding: 5px;
+  width: 100px;
+  border: 1px solid;
+  border-radius: 4px;
+  background-color: lightblue;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.shadow {
+  box-shadow: 5px 1px 5px black;
+}
+
+img {
+  width: 400px;
+  border-radius: 8px;
+}
